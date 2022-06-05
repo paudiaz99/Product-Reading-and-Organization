@@ -1,0 +1,4 @@
+5 10.4 t-shirt
+2 50.2 sneakers
+3 20.6 soap
+0 70 wheel

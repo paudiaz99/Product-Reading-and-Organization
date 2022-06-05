@@ -1,0 +1,12 @@
+Product name: sneakers
+Price: 60.9 euros
+Stock: 4
+Product name: light bulb
+Price: 10 euros
+Stock: 1
+Product name: ball
+Price: 5 euros
+Stock: 15
+Product name: te@
+Price: 0.8 euros
+Stock: 40
